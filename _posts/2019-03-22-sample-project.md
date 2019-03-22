@@ -1,7 +1,7 @@
 ---
 title: "Sample Project"
 layout: post
-date: 2019-03-22 14:55
+# date: 2019-03-22 14:55
 tag: project
 image: assets/images/profile.png
 headerImage: true
