@@ -90,7 +90,7 @@ related: false
 # post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
@@ -98,7 +98,7 @@ animation: true
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-admin
 
