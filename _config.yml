@@ -10,11 +10,11 @@ bio: Under Construction...Coming Soon...
 external-image: false
 picture: assets/images/profile.jpeg
 
-# If you want to include your resume, set to true
+# If you want to include your CV, set to true
 # and specify source (external or local).
-resume: true
-resume-external: false
-resume-url: assets/files/cv.pdf
+CV: true
+CV-external: false
+CV-url: assets/files/cv.pdf
 
 url: https://leyangfeng.com
 
